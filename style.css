@@ -33,7 +33,7 @@ body {
 .awesome {
   display: flex;
   justify-content: space-between;
-  padding: 70px 0;
+  padding: 26px 0 60px;
 }
 
 .left {
