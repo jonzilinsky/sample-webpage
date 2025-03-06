@@ -4,4 +4,4 @@ Creating a sample webpage to practice HTML, CSS, and Flexbox based on what I've 
 
 Click here to view live version: https://jonzilinsky.github.io/sample-webpage/
 
-<img src="https://github.com/jonzilinsky/pictures/blob/main/websitetemplate.png?raw=true">
+<img src="https://github.com/jonzilinsky/pictures/blob/main/websitetemplate2.png?raw=true">
